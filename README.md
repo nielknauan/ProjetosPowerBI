@@ -1,0 +1,13 @@
+# ProjetosPowerBI
+
+Relatorio de Faturamento
+https://app.powerbi.com/view?r=eyJrIjoiZDNhMTg1M2QtNDUzYS00NTgzLWFmOTYtODRiYTZkMmY4Yjg4IiwidCI6IjIzMjk4NzYxLTliMTQtNDI3MS04NjI4LTgzNzBmNzFkZTI2MyJ9
+
+Relatorio E-commerce
+https://app.powerbi.com/view?r=eyJrIjoiY2I3YTBlNDMtMWFjOC00YzM0LTk2ZTUtYzVmZjVhN2UwNTljIiwidCI6IjIzMjk4NzYxLTliMTQtNDI3MS04NjI4LTgzNzBmNzFkZTI2MyJ9
+
+Relatorio Faturamento e Vendas
+https://app.powerbi.com/view?r=eyJrIjoiNmVlNzg5NDUtZGNiNS00NDRlLWExZDQtZmY1OGM3ZWY3MmM2IiwidCI6IjIzMjk4NzYxLTliMTQtNDI3MS04NjI4LTgzNzBmNzFkZTI2MyJ9
+
+Relatório de RH
+https://app.powerbi.com/view?r=eyJrIjoiMTQ5NWE5YzItYmNmYy00YTBiLWEwZTctNDJkOTZiZGNkOWIxIiwidCI6IjIzMjk4NzYxLTliMTQtNDI3MS04NjI4LTgzNzBmNzFkZTI2MyJ9
